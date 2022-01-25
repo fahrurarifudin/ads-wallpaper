@@ -1,13 +1,13 @@
 {
   "ADS": [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads": "STARTAPP",
-      "main_ads_banner": "02e537ebd13510eb",
-      "main_ads_intertitial": "208954450b650282",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
       "backup_ads_banner": "",
       "backup_ads_intertitial": "",
-      "initialize_sdk": "203646979",
+      "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
       "interstitial_counter": "3",
       "high_paying_keyword_1": "",
@@ -27,7 +27,7 @@
   "DATA": [
     {
       "title_search": "One Piece",
-      "image_url": "https://www.zedge.net/wallpaper/89460479-fb3d-456a-9411-ae2f1e807413"
+      "image_url": "https://fsa.zobj.net/crop.php?r=kWHIiTcx_6Jy9V5sFlPvGXiiiuxh-CYdTPWRCzmTIQqtyndBFZfL6FL9eoM0K6fEzqyMvH4Ct4xpRBE2l-Pyvhk6DmU-SRL8WZHHuUyijJu7lvZR2SYcJ_gXztED4SE9FbHr2sr6DLL5QPZIcYKpzV6E056SSWniDtfO4-cJaU1awsuTjVxTSAdcDBmpGLlNC8jZVC3Y5z2OetEL"
     },
     {
       "title_search": "Naruto",
