@@ -2,13 +2,13 @@
   "ADS": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads": "IRON",
+      "select_backup_ads": "",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial": "ca-app-pub-3940256099942544/8691691433",
       "backup_ads_banner": "",
-      "backup_ads_intertitial": "7527748",
+      "backup_ads_intertitial": "",
       "initialize_sdk": "",
-      "initialize_sdk_backup_ads": "1399840a1",
+      "initialize_sdk_backup_ads": "",
       "interstitial_counter": "5",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
