@@ -2,7 +2,7 @@
   "ADS": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads": "STARAPP",
+      "select_backup_ads": "STARTAPP",
       "main_ads_banner": "ca-app-pub-9448728479386226/3028504934",
       "main_ads_intertitial": "ca-app-pub-9448728479386226/1715423263",
       "backup_ads_banner": "",
