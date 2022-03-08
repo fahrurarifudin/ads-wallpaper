@@ -2,13 +2,13 @@
   "ADS": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads": "IRON",
+      "select_backup_ads": "UNITY",
       "main_ads_banner": "ca-app-pub-9448728479386226/9711122888",
       "main_ads_intertitial": "ca-app-pub-9448728479386226/3145714539",
-      "backup_ads_banner": "7527750",
-      "backup_ads_intertitial": "7527748",
-      "initialize_sdk": "1399840a1",
-      "initialize_sdk_backup_ads": "1399840a1",
+      "backup_ads_banner": "Banner_Android",
+      "backup_ads_intertitial": "Interstitial_Android",
+      "initialize_sdk": "4647959",
+      "initialize_sdk_backup_ads": "4647959",
       "interstitial_counter": "5",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
